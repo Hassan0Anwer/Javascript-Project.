@@ -1,0 +1,2 @@
+# JabascriptProject.
+Javascript mini project
