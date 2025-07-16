@@ -1,2 +1,2 @@
-# JabascriptProject.
+# JavascriptProject.
 Javascript mini project
